@@ -1,0 +1,5 @@
+# OpenMC itself should be installed through conda-forge as described in README.md.
+# This file contains the additional packages needed to open and run the notebook.
+
+jupyterlab>=4.0
+ipykernel>=6.0
