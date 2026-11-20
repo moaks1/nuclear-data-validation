@@ -1,6 +1,6 @@
 # Nuclear Data Verification for the Python Activation Code
 
-This repository contains reproducible inspection notebooks used to substantiate specific nuclear-data statements made in the Python Activation Code manuscript. The raw evaluated nuclear-data files are **not redistributed in this repository**; users must obtain their own copies from the original library sources.
+This repository contains reproducible inspection notebooks used to substantiate specific nuclear-data statements made in the NWAC manuscript. The raw evaluated nuclear-data files are **not redistributed in this repository**; users must obtain their own copies from the original library sources.
 
 The repository is intentionally narrow in scope. It is **not** the Python Activation Code itself and it does not perform neutron transport or Monte Carlo calculations. Its purpose is to provide a transparent and reproducible record of the code used to inspect specific evaluated nuclear-data files.
 
